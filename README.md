@@ -1,10 +1,15 @@
 # codeforall_project
-code for all project
-# hello.py
-def greet(name):
-    return f"Hello, {name}!"
+# Startup Idea: DormMate
 
-if __name__ == "__main__":
-    name = input("Enter your name: ")
-    print(greet(name))
-# fee
+## 소개
+DormMate는 기숙사 학생들을 위한 생활 관리 앱입니다.  
+청소 당번, 공동 장보기, 일정 공유 기능을 통해 룸메이트 갈등을 줄여줍니다.
+
+## 문제
+- 룸메이트끼리 집안일 분담이 불공평함
+- 일정이 맞지 않아 생활 충돌 발생
+
+## 해결책
+- 앱에서 자동으로 청소 당번 배정
+- 공동 장보기 리스트 + 비용 정산
+- 알림 기능으로 약속 시간 조율
